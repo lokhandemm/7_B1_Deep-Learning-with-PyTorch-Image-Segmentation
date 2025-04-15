@@ -1,4 +1,4 @@
-# 🧠 Deep Learning with PyTorch: Image Segmentation
+# 🧠 Image Segmentation using PyTorch:
 
 ---
 
