@@ -12,7 +12,7 @@
 
 **U-Net** is a convolutional neural network architecture known for its encoder-decoder structure with skip connections. It efficiently captures context and enables precise localization by combining low-level spatial features with high-level semantic information.
 
-### 🔁 Highlights:
+### 🔁 Highlights: 
 - Symmetrical architecture
 - Skip connections to reduce information loss
 - High performance on biomedical and general segmentation tasks
