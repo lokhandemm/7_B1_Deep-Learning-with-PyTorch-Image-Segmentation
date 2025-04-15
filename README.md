@@ -29,7 +29,7 @@
 
 ## ▶️ Demo
 
-📽️ `7_B1_maithili_DL_practical_9.mp4`  
+📽️ `7_B1_maithili_DL_practical_9_ImageSegmentation_Pytorch.mp4`  
 A demonstration of U-Net in action, performing segmentation on sample images.
 
 ---
