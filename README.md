@@ -1,4 +1,4 @@
-# 🧠 Image Segmentation using PyTorch:      
+ # 🧠 Image Segmentation using PyTorch:      
                         
  
 ## 📌 Overview
